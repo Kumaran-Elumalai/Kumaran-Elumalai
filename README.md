@@ -157,13 +157,14 @@ me = Kumaran()
   </a>
   &nbsp;&nbsp;
   <a href="mailto:kumaranelumalai1108@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://medium.com/@kumaranelumalai1108" target="_blank">
     <img src="https://cdn.simpleicons.org/medium/00AB6C" width="40" height="40" />
   </a>
 </p>
+
 
 
 ###
