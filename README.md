@@ -152,7 +152,19 @@ me = Kumaran()
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kumaran-elumalai/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@kumaranelumalai1108) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kumaranelumalai1108@gmail.com) 
+<div align="left">
+  <a href="https://www.linkedin.com/in/kumaran-elumalai" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+    <a href="kumaranelumalai1108@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://medium.com/@kumaranelumalai1108" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+</div>
+
+###
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kumaran-Elumalai&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
