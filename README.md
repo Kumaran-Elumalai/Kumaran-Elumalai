@@ -166,16 +166,4 @@ me = Kumaran()
 [![](https://visitcount.itsvg.in/api?id=Kumaran-Elumalai&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<h1 align="center">Hi 👋, I'm Kumaran Elumalai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaran-elumalai&label=Profile%20views&color=0e75b6&style=flat" alt="kumaran-elumalai" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaran-elumalai&show_icons=true&locale=en&layout=compact" alt="kumaran-elumalai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaran-elumalai&" alt="kumaran-elumalai" /></p>
 
