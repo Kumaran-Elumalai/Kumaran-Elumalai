@@ -151,17 +151,20 @@ me = Kumaran()
 
 
 ## 🌐 Socials:
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/kumaran-elumalai" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>
-    <a href="kumaranelumalai1108@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  &nbsp;&nbsp;
+  <a href="mailto:kumaranelumalai1108@gmail.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40" height="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://medium.com/@kumaranelumalai1108" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+    <img src="https://cdn.simpleicons.org/medium/00AB6C" width="40" height="40" />
   </a>
-</div>
+</p>
+
 
 ###
 ### ✍️ A Quote from the Dev World
