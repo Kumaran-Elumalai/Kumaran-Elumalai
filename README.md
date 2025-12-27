@@ -165,18 +165,41 @@ me = Kumaran()
   </a>
 </p>
 
+<h2>📊 GitHub Activity</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Kumaran-Elumalai&theme=github-dark&hide_border=true"
+    width="95%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=Kumaran-Elumalai&theme=dark&hide_border=true"
+    width="80%"
+  />
+</p>
 
 
 ###
-### ✍️ A Quote from the Dev World
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">✍️ A Quote from the Dev World</h3>
+
+<p align="center">
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" 
+    alt="Dev Quote"
+  />
+</p>
+
+<!--
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kumaran-Elumalai&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kumaran-Elumalai&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumaran-Elumalai&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
+-->
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kumaran-Elumalai&color=blue&style=flat)
