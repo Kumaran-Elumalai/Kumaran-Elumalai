@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="500" />
-</p>
+### 🚀 Building AI systems that can listen, think, and act.
+
+![Building AI systems that can listen, think, and act.](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
+
 # 💫 About Me:
 🔭 I’m currently working on<br>Building AI systems that can listen, think, and act. I work on conversational voice assistants, GenAI applications, and agentic workflows that reason, retrieve information, and take actions in real-world scenarios.<br><br>👯 I’m looking to collaborate on<br>Ambitious AI projects where the goal is real impact, not just experimentation. This includes GenAI products, agent-based systems, retrieval pipelines, and ML solutions built for actual users.<br><br>🤝 I’m looking for help with<br>Taking AI systems from working to dependable. Improving latency, reliability, evaluation, and decision-making in complex GenAI and agentic systems.<br><br>🌱 I’m currently learning<br>How to design AI systems that scale beyond a single model. Agentic architectures, GenAI system design, MLOps practices, and deeper data science and machine learning foundations.<br><br>💬 Ask me about<br>End-to-end AI system design, GenAI and agentic workflows, conversational AI and voice bots, RAG architectures, and the real trade-offs involved in shipping AI to production.<br><br>⚡ Fun fact<br>I enjoy breaking AI systems in production and understanding why they failed, because that’s where the most valuable learning happens.
 
