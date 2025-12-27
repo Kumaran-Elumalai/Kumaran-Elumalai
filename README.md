@@ -1,8 +1,13 @@
-### 🚀 Building AI systems that can listen, think, and act.
+## 👋 Hey, I’m Kumaran
+
+I’m an AI/ML engineer and tech enthusiast who builds production-ready AI systems across machine learning and data science, with a strong interest in GenAI and agentic systems that can reason, learn, and take actions in real-world environments.
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" />
-  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" height="180" />
 </p>
+
+### 🚀 Building intelligent systems that can listen, think, and act.
+
 
 # 💫 About Me:
 🔭 I’m currently working on<br>Building AI systems that can listen, think, and act. I work on conversational voice assistants, GenAI applications, and agentic workflows that reason, retrieve information, and take actions in real-world scenarios.<br><br>👯 I’m looking to collaborate on<br>Ambitious AI projects where the goal is real impact, not just experimentation. This includes GenAI products, agent-based systems, retrieval pipelines, and ML solutions built for actual users.<br><br>🤝 I’m looking for help with<br>Taking AI systems from working to dependable. Improving latency, reliability, evaluation, and decision-making in complex GenAI and agentic systems.<br><br>🌱 I’m currently learning<br>How to design AI systems that scale beyond a single model. Agentic architectures, GenAI system design, MLOps practices, and deeper data science and machine learning foundations.<br><br>💬 Ask me about<br>End-to-end AI system design, GenAI and agentic workflows, conversational AI and voice bots, RAG architectures, and the real trade-offs involved in shipping AI to production.<br><br>⚡ Fun fact<br>I enjoy breaking AI systems in production and understanding why they failed, because that’s where the most valuable learning happens.
