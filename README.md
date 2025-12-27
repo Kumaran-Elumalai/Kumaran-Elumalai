@@ -70,57 +70,85 @@ class Kumaran:
 me = Kumaran()
 
 ```
+
 ## 💻 Tech Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Languages</strong><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Generative AI & LLM Systems</strong><br/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C"/>
+      <img src="https://img.shields.io/badge/LlamaIndex-3A3A3A"/>
+      <img src="https://img.shields.io/badge/RAG-4B8BBE"/>
+      <img src="https://img.shields.io/badge/Prompt%20Engineering-6A5ACD"/>
+      <img src="https://img.shields.io/badge/Mistral%20LLM-FF6F00"/>
+      <img src="https://img.shields.io/badge/Ollama-000000"/>
+      <img src="https://img.shields.io/badge/LangServe-2E8B57"/>
+      <img src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white"/>
+    </td>
+  </tr>
 
-**Machine Learning**  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+  <tr>
+    <td valign="top">
+      <strong>Machine Learning</strong><br/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white"/>
+    </td>
+    <td valign="top">
+      <strong>Conversational & Speech AI</strong><br/>
+      <img src="https://img.shields.io/badge/Faster%20Whisper-000000"/>
+      <img src="https://img.shields.io/badge/Pyttsx3-3776AB?logo=python&logoColor=white"/>
+    </td>
+  </tr>
 
-**Deep Learning & NLP**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+  <tr>
+    <td valign="top">
+      <strong>Deep Learning & NLP</strong><br/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black"/>
+    </td>
+    <td valign="top">
+      <strong>Vector Databases</strong><br/>
+      <img src="https://img.shields.io/badge/QdrantDB-DC244C"/>
+      <img src="https://img.shields.io/badge/FAISS-0467DF"/>
+    </td>
+  </tr>
 
-**Generative AI & LLM Ecosystem**  
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-3A3A3A)
-![RAG](https://img.shields.io/badge/RAG-4B8BBE)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6A5ACD)
-![Mistral LLM](https://img.shields.io/badge/Mistral%20LLM-FF6F00)
-![Ollama](https://img.shields.io/badge/Ollama-000000)
-![LangServe](https://img.shields.io/badge/LangServe-2E8B57)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
+  <tr>
+    <td valign="top">
+      <strong>Data & Libraries</strong><br/>
+      <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
+    </td>
+    <td valign="top">
+      <strong>Cloud, Big Data & Deployment</strong><br/>
+      <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?logo=apachespark&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Azure-0072C6?logo=microsoftazure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-0DB7ED?logo=docker&logoColor=white"/>
+    </td>
+  </tr>
 
-**Conversational & Speech AI**  
-![Faster Whisper](https://img.shields.io/badge/Faster%20Whisper-000000)
-![Pyttsx3](https://img.shields.io/badge/Pyttsx3-3776AB?logo=python&logoColor=white)
-
-**Vector Databases**  
-![QdrantDB](https://img.shields.io/badge/QdrantDB-DC244C)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF)
-
-**Data & Libraries**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-
-**Cloud, Big Data & Deployment**  
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?logo=apachespark&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0072C6?logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?logo=docker&logoColor=white)
-
-**Visualization & Apps**  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?logo=streamlit&logoColor=white)
-
-**Version Control**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+  <tr>
+    <td valign="top">
+      <strong>Visualization & Apps</strong><br/>
+      <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-ffffff?logo=matplotlib&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0"/>
+      <img src="https://img.shields.io/badge/Streamlit-FE4B4B?logo=streamlit&logoColor=white"/>
+    </td>
+    <td valign="top">
+      <strong>Version Control</strong><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
