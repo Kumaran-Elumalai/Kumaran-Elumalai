@@ -7,7 +7,6 @@
     <td width="55%" valign="middle">
       
 ### 👋 Hey, I’m Kumaran
-
 I’m an **AI/ML Engineer and tech enthusiast** who builds **production-ready AI systems** across machine learning and data science.
 My interests span **GenAI, agentic systems, and applied AI**, with a focus on building systems that work reliably in real-world environments.
 **I enjoy turning ideas into working AI products, not just demos.**
