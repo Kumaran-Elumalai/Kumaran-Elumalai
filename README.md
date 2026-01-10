@@ -21,7 +21,6 @@ My interests span **GenAI, agentic systems, and applied AI**, with a focus on bu
 <hr>
 
 # 💫 About Me
-
 ```python
 class Kumaran:
     def __init__(self):
