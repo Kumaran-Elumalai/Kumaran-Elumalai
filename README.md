@@ -12,7 +12,6 @@ My interests span **GenAI, agentic systems, and applied AI**, with a focus on bu
   </td>
   </tr>
 </table>
-
 <hr>
 <h3 align="center">
   Building intelligent systems that can listen, think, and act.
