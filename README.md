@@ -1,22 +1,37 @@
 <table>
   <tr>
     <td width="45%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" />
+      <img 
+        src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
+        width="100%"
+      />
     </td>
- <td width="55%" valign="middle">     
- ### 👋 Hey, I’m Kumaran 
-I’m an **AI/ML Engineer and tech enthusiast** who builds **production-ready AI systems** across machine learning and data science.
-My interests span **GenAI, agentic systems, and applied AI**, with a focus on building systems that work reliably in real-world environments.
-**I enjoy turning ideas into working AI products, not just demos.**
 
-  </td>
+   <td width="55%" valign="middle">
+      <h3>👋 Hey, I’m Kumaran</h3>
+    <p>
+        I’m an <b>AI/ML Engineer and tech enthusiast</b> who builds
+        <b>production-ready AI systems</b> across machine learning and data science.
+      </p>
+      <p>
+        My interests span <b>GenAI, agentic systems, and applied AI</b>,
+        with a focus on building systems that work reliably in real-world environments.
+      </p>
+      <p>
+        <b>I enjoy turning ideas into working AI products, not just demos.</b>
+      </p>
+    </td>
   </tr>
 </table>
+
 <hr>
+
 <h3 align="center">
   Building intelligent systems that can listen, think, and act.
 </h3>
+
 <hr>
+
 
 # 💫 About Me
 ```python
