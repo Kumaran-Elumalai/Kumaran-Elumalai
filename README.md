@@ -3,8 +3,8 @@
     <td width="45%" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" />
     </td>
-    <td width="55%" valign="middle">     
-### 👋 Hey, I’m Kumaran
+ <td width="55%" valign="middle">     
+ 👋 Hey, I’m Kumaran
 I’m an **AI/ML Engineer and tech enthusiast** who builds **production-ready AI systems** across machine learning and data science.
 My interests span **GenAI, agentic systems, and applied AI**, with a focus on building systems that work reliably in real-world environments.
 **I enjoy turning ideas into working AI products, not just demos.**
